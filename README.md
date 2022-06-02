@@ -20,7 +20,7 @@ Apply data visualization techniques to identify the patterns of the data.
 ```
 Program
 Developed by: Mudi Pavan kumar Reddy
-Register no:212221230062
+Register no:212221230067
 
 #Reading the given dataset
 
